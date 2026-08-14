@@ -19,7 +19,7 @@ body {
 }
 
 button {
-    width: 100%;
+    width: calc(100% - 32px);
     padding: 14px 18px;
 
     color: var(--tg-theme-text-color);
